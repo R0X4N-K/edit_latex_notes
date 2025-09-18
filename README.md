@@ -19,7 +19,7 @@
 1. Clona questa repository:
 
    ```bash
-   https://github.com/R0X4N-K/edit_latex_notes
+   git clone https://github.com/R0X4N-K/edit_latex_notes
    cd edit-latex-notes
    ```
 
